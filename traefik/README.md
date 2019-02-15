@@ -16,9 +16,9 @@ WARNING:
 
 # Supported tags and respective `Dockerfile` links
 
--	[`v1.7.9`, `1.7.9`, `v1.7`, `1.7`, `maroilles`, `latest` (*scratch/amd64/Dockerfile*)](https://github.com/containous/traefik-library-image/blob/77849defe7ccf84ce569147e2c269b2e3b26006b/scratch/amd64/Dockerfile)
--	[`v1.7.9-alpine`, `1.7.9-alpine`, `v1.7-alpine`, `1.7-alpine`, `maroilles-alpine`, `alpine` (*alpine/Dockerfile*)](https://github.com/containous/traefik-library-image/blob/77849defe7ccf84ce569147e2c269b2e3b26006b/alpine/Dockerfile)
--	[`v1.7.9-nanoserver`, `1.7.9-nanoserver`, `v1.7-nanoserver`, `1.7-nanoserver`, `maroilles-nanoserver`, `v1.7.9-nanoserver-sac2016`, `1.7.9-nanoserver-sac2016`, `v1.7-nanoserver-sac2016`, `1.7-nanoserver-sac2016`, `maroilles-nanoserver-sac2016`, `nanoserver`, `nanoserver-sac2016` (*windows/Dockerfile*)](https://github.com/containous/traefik-library-image/blob/77849defe7ccf84ce569147e2c269b2e3b26006b/windows/Dockerfile)
+**No supported tags found!**
+
+It is very likely that `traefik` does not support the currently selected architecture (`ppc64le`).
 
 # Quick reference
 
