@@ -16,10 +16,9 @@ WARNING:
 
 # Supported tags and respective `Dockerfile` links
 
--	[`2.0.20190212`, `2`, `latest` (*Dockerfile*)](https://github.com/aws/amazon-linux-docker-images/blob/2005a6a2839e438f4f728900ac021f0dd27ad60f/Dockerfile)
--	[`2.0.20190212-with-sources`, `2-with-sources`, `with-sources` (*Dockerfile*)](https://github.com/aws/amazon-linux-docker-images/blob/3afa3b0ade59ef31a72c2331329eecb82a7a8ba2/Dockerfile)
--	[`2018.03.0.20190212`, `2018.03`, `1` (*Dockerfile*)](https://github.com/aws/amazon-linux-docker-images/blob/6ba97eac5a6222140a5b70ae1083da0f1e3f2f18/Dockerfile)
--	[`2018.03.0.20190212-with-sources`, `2018.03-with-sources`, `1-with-sources` (*Dockerfile*)](https://github.com/aws/amazon-linux-docker-images/blob/d53016cae3efb56598428cad7b7699598f29d297/Dockerfile)
+**No supported tags found!**
+
+It is very likely that `amazonlinux` does not support the currently selected architecture (`arm32v7`).
 
 # Quick reference
 
